@@ -13,11 +13,20 @@
   color: white;
 }
 
+.link {
+  color: #536dfe;
+  text-decoration: none;
+}
+
+.link:hover {
+  text-decoration: underline;
+}
+
 .social {
   margin-top: 50px;
 }
 
-.link {
+.social .link {
   background-color: #536dfe;
   color: white;
   text-decoration: none;
@@ -27,7 +36,7 @@
   transition: all 0.5s ease-out;
 }
 
-.link:hover {
+.social .link:hover {
   color: #333;
   background-color: #fff;
   color: #536dfe;

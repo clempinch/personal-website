@@ -11,7 +11,9 @@ class App extends React.Component {
       <div className="App">
         <header className="App-header">
           <p>
-            <span role="img" aria-label="hello">👋</span> Hello, I'm Clément Pinchedez.
+            <span role="img" aria-label="hello">👋</span> Hello, I am Clément Pinchedez.<br/>
+            I am a software engineer at <a class="link" href="https://www.criteo.com" target="_blank" rel="noopener noreferrer">Criteo</a>.<br/>
+            I live in Paris.
           </p>
           <div class="social">
             <a class="link" href="https://github.com/clempinch" target="_blank" rel="noopener noreferrer"><FontAwesomeIcon icon={faGithub} /> Github</a>
