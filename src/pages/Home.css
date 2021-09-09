@@ -1,0 +1,30 @@
+.home {
+  padding: 20px;
+}
+
+.bubble {
+  position: relative;
+  max-width: 30em;
+  background-color: var(--primary);
+  padding: 1.125em 1.5em;
+  font-size: 1.25em;
+  border-radius: 1rem;
+  color: var(--secondary);
+}
+
+.bubble::before {
+  content: "";
+  position: absolute;
+  width: 0;
+  height: 0;
+  right: 100%;
+  border-left: 24px solid transparent;
+  border-right: 12px solid var(--primary);
+  border-top: 12px solid transparent;
+  border-bottom: 20px solid var(--primary);
+  line-height: 24px;
+}
+
+.paragraph {
+  margin-top: 25px;
+}
