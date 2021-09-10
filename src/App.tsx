@@ -45,12 +45,12 @@ export default function App() {
             <div className="social">
               <a
                 className="link"
-                href="https://github.com/clempinch"
+                href="https://www.linkedin.com/in/clementpinchedez/"
                 target="_blank"
                 rel="noopener noreferrer"
               >
-                <FontAwesomeIcon icon={faGithub} className="prepend-icon" />{" "}
-                Github
+                <FontAwesomeIcon icon={faLinkedin} className="prepend-icon" />{" "}
+                LinkedIn
               </a>
               <a
                 className="link"
@@ -63,12 +63,12 @@ export default function App() {
               </a>
               <a
                 className="link"
-                href="https://www.linkedin.com/in/clementpinchedez/"
+                href="https://github.com/clempinch"
                 target="_blank"
                 rel="noopener noreferrer"
               >
-                <FontAwesomeIcon icon={faLinkedin} className="prepend-icon" />{" "}
-                LinkedIn
+                <FontAwesomeIcon icon={faGithub} className="prepend-icon" />{" "}
+                Github
               </a>
             </div>
           </div>
