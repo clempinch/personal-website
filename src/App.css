@@ -54,11 +54,9 @@ nav > ul > li {
 }
 
 .app-content {
-  position: fixed;
-  top: 150px;
+  padding-top: 150px;
   display: flex;
   flex-direction: row;
-  height: 100%;
 }
 
 .left-side-panel {

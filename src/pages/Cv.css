@@ -1,0 +1,38 @@
+.cv {
+  padding: 20px;
+}
+
+.cv h2:first-child,
+h3 {
+  margin-top: 0;
+}
+
+.cv p {
+  font-size: var(--small);
+}
+
+.techstack {
+  font-size: var(--small);
+  margin-top: 1em;
+}
+
+.techstack-icon {
+  margin-right: 6px;
+}
+
+.language {
+  display: flex;
+  gap: 25px;
+  align-items: baseline;
+  width: 100%;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.language-level {
+  width: 40%;
+}
+
+.language-certificate {
+  font-size: var(--small);
+}
