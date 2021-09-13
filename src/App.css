@@ -57,6 +57,7 @@ nav > ul > li {
   padding-top: 150px;
   display: flex;
   flex-direction: row;
+  flex-wrap: wrap;
 }
 
 .left-side-panel {
