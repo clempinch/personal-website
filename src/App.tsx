@@ -10,18 +10,20 @@ import { Home } from "./pages/Home";
 import { Cv } from "./pages/Cv";
 import { faExternalLinkAlt } from "@fortawesome/free-solid-svg-icons";
 import faceImg from "./assets/face.jpeg";
+import { useTranslation } from "react-i18next";
 
 export default function App() {
+  const { t } = useTranslation();
   return (
     <Router>
       <div className="App">
         <nav>
           <ul>
             <li>
-              <Link to="/">Home</Link>
+              <Link to="/">{t("app.home")}</Link>
             </li>
             <li>
-              <Link to="/cv">CV</Link>
+              <Link to="/cv">{t("app.cv")}</Link>
             </li>
             <li>
               <a
@@ -29,7 +31,7 @@ export default function App() {
                 target="_blank"
                 rel="noreferrer"
               >
-                Blog{" "}
+                {t("app.blog")}{" "}
                 <FontAwesomeIcon
                   icon={faExternalLinkAlt}
                   size="xs"
@@ -88,58 +90,3 @@ export default function App() {
     </Router>
   );
 }
-
-// class App extends React.Component {
-//   render() {
-//     return (
-//       <div className="App">
-//         <header className="App-header">
-//           <p>
-//             <span role="img" aria-label="hello">
-//               👋
-//             </span>{" "}
-//             Hello, I am Clément Pinchedez.
-//             <br />I am a software engineer at{" "}
-//             <a
-//               className="link"
-//               href="https://www.criteo.com"
-//               target="_blank"
-//               rel="noopener noreferrer"
-//             >
-//               Criteo
-//             </a>
-//             .<br />I live in Paris.
-//           </p>
-//           <div className="social">
-//             <a
-//               className="link"
-//               href="https://github.com/clempinch"
-//               target="_blank"
-//               rel="noopener noreferrer"
-//             >
-//               <FontAwesomeIcon icon={faGithub} /> Github
-//             </a>
-//             <a
-//               className="link"
-//               href="https://twitter.com/clempinch"
-//               target="_blank"
-//               rel="noopener noreferrer"
-//             >
-//               <FontAwesomeIcon icon={faTwitter} /> Twitter
-//             </a>
-//             <a
-//               className="link"
-//               href="https://www.linkedin.com/in/clementpinchedez/"
-//               target="_blank"
-//               rel="noopener noreferrer"
-//             >
-//               <FontAwesomeIcon icon={faLinkedin} /> LinkedIn
-//             </a>
-//           </div>
-//         </header>
-//       </div>
-//     );
-//   }
-// }
-
-// export default App;

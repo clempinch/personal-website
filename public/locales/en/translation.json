@@ -1,0 +1,100 @@
+{
+  "app": {
+    "home": "Home",
+    "cv": "CV",
+    "blog": "Blog"
+  },
+  "home": {
+    "hello": "Hello!",
+    "part1": "My name is Clément Pinchedez.",
+    "part2": "I am software engineer at",
+    "part3": "I am interested in many different things, I program, I stroll, I travel, I read comic books."
+  },
+  "cv": {
+    "experience": {
+      "title": "Experience",
+      "m19": {
+        "title": "Lead Software Engineer at",
+        "date": "since 2021",
+        "description": "Developing tools to help brands with Amazon ads."
+      },
+      "criteo": {
+        "title": "Dev lead at",
+        "date": "2014–2021",
+        "description1": "From 2019, led a team of 6 engineers, providing applications and tools to serve a library of banner components (text, images, videos, scripts) with a uniform quality across browsers and devices.",
+        "description2": "Started as a software engineer and joined multiple projects in the company: new inventory (e.g. native ads, video retargeting), new products for brands, new dynamic creative components."
+      },
+      "amadeus": {
+        "title": "Software engineer at",
+        "date": "2009–2014",
+        "description1": "From 2012, worked in Airport IT division to work on an highly available mediation layer and airport service bus.",
+        "description2": "Started as a software engineer working on internal tools for the e-commerce division."
+      },
+      "amadeus-thesis": {
+        "title": "Master Thesis at",
+        "date": "2009",
+        "description1": "Design and implementation of a high-throughput distributed task execution system to improve the releasing process of the Amadeus e-commerce products.",
+        "description2": "Grade A. Finalist of the Amadeus Intern Contest (4th)."
+      },
+      "sics": {
+        "title": "Developer at the",
+        "date": "Sep–Dec 2008",
+        "description": "Persistent messaging in Java using MySQL Cluster. Development of a persistence plugin for Apache ActiveMQ."
+      },
+      "diadeis": {
+        "title": "Intern at",
+        "date": "Summer 2008",
+        "description": "For the publication of the Official Journal of the European Union, design and development of a performant XSL-FO processor in C# for Arbortext Advanced Print Publisher (AAPP). The engine can handle the XSL-FO and the MathML standards."
+      },
+      "cnrs": {
+        "title": "Intern at CNRS (Versailles)",
+        "date": "Summer 2007",
+        "description": "Design and implementation in Java of a résumé \"search engine\" coupled to an XML extraction Swing UI for analyzis. This internship was part of a sociology research project (analysis of the W3C standardization processes)."
+      },
+      "philips": {
+        "title": "Assembly line worker at Philips Lighting (Aachen)",
+        "date": "Feb–Mar 2007",
+        "description": "After several assignments on the assembly line, wrote a report about quality management in the industry."
+      }
+    },
+    "education": {
+      "title": "Education",
+      "kth": {
+        "title": "Master of Science at",
+        "description": "Software engineering of distributed systems"
+      },
+      "mines": {
+        "title": "Ingénieur civil des Mines at",
+        "description": "IT engineering"
+      },
+      "prepas": {
+        "description": "Preparation for the competitive entrance examination to prestigious French engineering universities"
+      },
+      "bac": {
+        "title": "Scientific Baccalauréat",
+        "description": "National high school leaving diploma passed with honour"
+      }
+    },
+    "languages": {
+      "title": "Languages",
+      "fr": {
+        "level": "Mother tongue"
+      },
+      "en": {
+        "level": "Good level",
+        "diploma": "Cambridge Certificated of advanced English awarded in 2007"
+      },
+      "de": {
+        "level": "Good level",
+        "diploma": "Zentrale Mittelstufenprüfung (Goethe-Institut) awarded in 2006"
+      },
+      "other": "Notions of 🇸🇪, 🇪🇸 and 🇨🇳."
+    },
+    "misc": {
+      "title": "Other interests",
+      "part1": "Hiking, swimming, running.",
+      "part2": "Art history (ex-student at the \"Ecole du Louvre\").",
+      "part3": "Flute/Piccolo, ex-treasurer of the Student Orchestra of Nancy (organization of concerts and trips)."
+    }
+  }
+}

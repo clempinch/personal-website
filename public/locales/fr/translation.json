@@ -1,0 +1,100 @@
+{
+  "app": {
+    "home": "Accueil",
+    "cv": "CV",
+    "blog": "Blog"
+  },
+  "home": {
+    "hello": "Bonjour!",
+    "part1": "Je m'appelle Clément Pinchedez.",
+    "part2": "Je suis ingénieur logiciel à",
+    "part3": "Je m'intéresse à beaucoup de choses, j'aime programmer, me promener, voyager, lire des BDs."
+  },
+  "cv": {
+    "experience": {
+      "title": "Experience professionnelle",
+      "m19": {
+        "title": "Lead Software Engineer à",
+        "date": "depuis 2021",
+        "description": "Developpement d'outils pour aider les marques à optimiser leur utilisation d'Amazon ads."
+      },
+      "criteo": {
+        "title": "Dev lead à",
+        "date": "2014–2021",
+        "description1": "Depuis 2019, j'ai dirigé une équipe de 6 ingénieurs responsable d'applications, d'outils et d'une bibliothèque de composants graphiques pour les bannières de publicité (texte, images, videos, scripts JS).",
+        "description2": "J'ai commencé chez Criteo en tant que software engineer et j'ai participé à de multiples projets: atteindre de nouveaux inventaires (native ads, video ads), développement de nouveaux produits pour les marques, nouveaux composant graphiques."
+      },
+      "amadeus": {
+        "title": "Software engineer à",
+        "date": "2009–2014",
+        "description1": "A partir de 2012, j'ai rejoins la division Airport IT pour concevoir un \"Airport service bus\" avec des contraintes de hautes disponibilités.",
+        "description2": "J'ai commencé à comme software engineer travaillant sur des outils internes de déploiement dans la divion e-commerce."
+      },
+      "amadeus-thesis": {
+        "title": "Master Thesis à",
+        "date": "2009",
+        "description1": "Design et implémentation d'un système distribué d'exécution de tâches pour accélérer le processus de déploiement des produits e-commerce d'Amadeus.",
+        "description2": "Note finale: A. Finaliste du concours \"Amadeus Intern Contest\" (4ème place)."
+      },
+      "sics": {
+        "title": "Développeur au",
+        "date": "Sep–Dec 2008",
+        "description": "Persistent messaging en Java en utilisant MySQL Cluster. Développement d'un plugin de persistence pour Apache ActiveMQ."
+      },
+      "diadeis": {
+        "title": "Stage chez",
+        "date": "Eté 2008",
+        "description": "Pour la publication du Journal Officiel de l'Union Européenne, conception d'un processeur XSL-FO processor en C# pour Arbortext Advanced Print Publisher (AAPP). Le moteur devait gérer les normes XSL-FO et MathML."
+      },
+      "cnrs": {
+        "title": "Stage au CNRS (laboratoire Prism de l'université de Versailles)",
+        "date": "Eté 2007",
+        "description": "Conception en Java d'un moteur de recherche de CV, couplé à un outil un UI Swing d'extraction en XML pour analyses. Ce stage faisait parti d'un projet de recherche en sociologie (analyse des processus de standardisation au W3C)."
+      },
+      "philips": {
+        "title": "Stage ouvrier chez Philips Lighting (AIx-la-Chapelle)",
+        "date": "Fev–Mar 2007",
+        "description": "Après plusieurs affectations sur la ligne d'assemblage et au département qualité, écriture d'un rapport sur la gestion de la qualité dans l'entreprise."
+      }
+    },
+    "education": {
+      "title": "Education",
+      "kth": {
+        "title": "Master of Science - ",
+        "description": "Software engineering of distributed systems"
+      },
+      "mines": {
+        "title": "Ingénieur civil des Mines - ",
+        "description": "IT engineering"
+      },
+      "prepas": {
+        "description": "Maths - Physique - Informatique"
+      },
+      "bac": {
+        "title": "Baccalauréat Scientifique",
+        "description": "Mention très bien"
+      }
+    },
+    "languages": {
+      "title": "Langues",
+      "fr": {
+        "level": "Langue maternelle"
+      },
+      "en": {
+        "level": "Bon niveau",
+        "diploma": "Cambridge Certificated of advanced English obtenu en 2007"
+      },
+      "de": {
+        "level": "Bon level",
+        "diploma": "Zentrale Mittelstufenprüfung (Goethe-Institut) obtenu en 2006"
+      },
+      "other": "Notions de 🇸🇪, 🇪🇸 et 🇨🇳."
+    },
+    "misc": {
+      "title": "Autres intérêts",
+      "part1": "Randonnées, natation, course à pied.",
+      "part2": "Histoire de l'art (ex-étudiant de l'\"Ecole du Louvre\").",
+      "part3": "Joueur de flûte/piccolo."
+    }
+  }
+}

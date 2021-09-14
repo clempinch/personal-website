@@ -1,17 +1,19 @@
+import { useTranslation } from "react-i18next";
 import "./Home.css";
 
 export function Home() {
+  const { t } = useTranslation();
   return (
     <div className="home">
       <div className="bubble">
         <div>
-          Hello!{" "}
+          {t("home.hello")}{" "}
           <span role="img" aria-label="hello">
             👋
           </span>
         </div>
         <div className="paragraph">
-          My name is Clément Pinchedez. I am a software engineer at{" "}
+          {t("home.part1")} {t("home.part2")}{" "}
           <a
             className="link"
             href="https://www.m19.com/"
@@ -22,10 +24,7 @@ export function Home() {
           </a>
           .
         </div>
-        <div className="paragraph">
-          I am interested in many different things, I program, I stroll, I
-          travel, I read comic books.
-        </div>
+        <div className="paragraph">{t("home.part3")}</div>
       </div>
     </div>
   );
