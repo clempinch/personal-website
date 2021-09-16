@@ -21,14 +21,14 @@
       "criteo": {
         "title": "Dev lead à",
         "date": "2014–2021",
-        "description1": "Depuis 2019, j'ai dirigé une équipe de 6 ingénieurs responsable d'applications, d'outils et d'une bibliothèque de composants graphiques pour les bannières de publicité (texte, images, videos, scripts JS).",
+        "description1": "Depuis 2019, j'ai dirigé une équipe de 6 ingénieurs. L'équipe est responsable d'une bibliothèque de composants graphiques pour les bannières de publicité (texte, images, videos, scripts JS).",
         "description2": "J'ai commencé chez Criteo en tant que software engineer et j'ai participé à de multiples projets: atteindre de nouveaux inventaires (native ads, video ads), développement de nouveaux produits pour les marques, nouveaux composant graphiques."
       },
       "amadeus": {
         "title": "Software engineer à",
         "date": "2009–2014",
         "description1": "A partir de 2012, j'ai rejoins la division Airport IT pour concevoir un \"Airport service bus\" avec des contraintes de hautes disponibilités.",
-        "description2": "J'ai commencé à comme software engineer travaillant sur des outils internes de déploiement dans la divion e-commerce."
+        "description2": "J'ai commencé à Amadeus comme software engineer travaillant sur des outils internes de déploiement dans la divion e-commerce."
       },
       "amadeus-thesis": {
         "title": "Master Thesis à",
@@ -49,7 +49,7 @@
       "cnrs": {
         "title": "Stage au CNRS (laboratoire Prism de l'université de Versailles)",
         "date": "Eté 2007",
-        "description": "Conception en Java d'un moteur de recherche de CV, couplé à un outil un UI Swing d'extraction en XML pour analyses. Ce stage faisait parti d'un projet de recherche en sociologie (analyse des processus de standardisation au W3C)."
+        "description": "Conception en Java d'un moteur de recherche de CV, couplé à une UI Swing d'export en XML pour analyses. Ce stage faisait parti d'un projet de recherche en sociologie (analyse des processus de standardisation du W3C)."
       },
       "philips": {
         "title": "Stage ouvrier chez Philips Lighting (AIx-la-Chapelle)",
@@ -65,13 +65,13 @@
       },
       "mines": {
         "title": "Ingénieur civil des Mines - ",
-        "description": "IT engineering"
+        "description": "Option ingéniere des systèmes informatiques"
       },
       "prepas": {
         "description": "Maths - Physique - Informatique"
       },
       "bac": {
-        "title": "Baccalauréat Scientifique",
+        "title": "Baccalauréat Scientifique, Lycée Léon Bourgeois (Epernay)",
         "description": "Mention très bien"
       }
     },
