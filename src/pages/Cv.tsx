@@ -150,7 +150,7 @@ export function Cv() {
         <p>{t("cv.education.mines.description")}</p>
       </ContainerWithDate>
       <ContainerWithDate date="2003–2005">
-        <h3>Classe préparatoires, Lycée Clemenceau (Reims)</h3>
+        <h3>Classes préparatoires, Lycée Clemenceau (Reims)</h3>
         <p>{t("cv.education.prepas.description")}</p>
       </ContainerWithDate>
       <ContainerWithDate date="2003">
