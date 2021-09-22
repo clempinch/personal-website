@@ -21,8 +21,8 @@
       "criteo": {
         "title": "Dev lead à",
         "date": "2014–2021",
-        "description1": "Depuis 2019, j'ai dirigé une équipe de 6 ingénieurs. L'équipe est responsable d'une bibliothèque de composants graphiques pour les bannières de publicité (texte, images, videos, scripts JS).",
-        "description2": "J'ai commencé chez Criteo en tant que software engineer et j'ai participé à de multiples projets: atteindre de nouveaux inventaires (native ads, video ads), développement de nouveaux produits pour les marques, nouveaux composant graphiques."
+        "description1": "A partir de 2019, j'ai dirigé l'équipe Creator Atom (6 ingénieurs), responsable d'une bibliothèque de composants pour les bannières de publicité (texte, images, videos, scripts JS).",
+        "description2": "J'ai commencé chez Criteo en tant que software engineer. J'ai participé à de multiples projets: atteindre de nouveaux inventaires (native ads, video ads), développer de nouveaux produits pour les marques ou de nouveaux composant graphiques (video, images, animations)."
       },
       "amadeus": {
         "title": "Software engineer à",
@@ -44,15 +44,15 @@
       "diadeis": {
         "title": "Stage chez",
         "date": "Eté 2008",
-        "description": "Pour la publication du Journal Officiel de l'Union Européenne, conception d'un processeur XSL-FO processor en C# pour Arbortext Advanced Print Publisher (AAPP). Le moteur devait gérer les normes XSL-FO et MathML."
+        "description": "Pour la publication du Journal Officiel de l'Union Européenne, conception d'un processeur XSL-FO processor en C# pour Arbortext Advanced Print Publisher (AAPP)."
       },
       "cnrs": {
         "title": "Stage au CNRS (laboratoire Prism de l'université de Versailles)",
         "date": "Eté 2007",
-        "description": "Conception en Java d'un moteur de recherche de CV, couplé à une UI Swing d'export en XML pour analyses. Ce stage faisait parti d'un projet de recherche en sociologie (analyse des processus de standardisation du W3C)."
+        "description": "Conception en Java d'un moteur de recherche de CV, couplé à une UI Swing d'export en XML pour analyses. Ce stage faisait partie d'un projet de recherche en sociologie (analyse des processus de standardisation du W3C)."
       },
       "philips": {
-        "title": "Stage ouvrier chez Philips Lighting (AIx-la-Chapelle)",
+        "title": "Stage ouvrier chez Philips Lighting (Aix-la-Chapelle)",
         "date": "Fev–Mar 2007",
         "description": "Après plusieurs affectations sur la ligne d'assemblage et au département qualité, écriture d'un rapport sur la gestion de la qualité dans l'entreprise."
       }
