@@ -22,7 +22,7 @@
         "title": "Dev lead à",
         "date": "2014–2021",
         "description1": "A partir de 2019, j'ai dirigé l'équipe Creator Atom (6 ingénieurs), responsable d'une bibliothèque de composants pour les bannières de publicité (texte, images, videos, scripts JS).",
-        "description2": "J'ai commencé chez Criteo en tant que software engineer. J'ai participé à de multiples projets: atteindre de nouveaux inventaires (native ads, video ads), développer de nouveaux produits pour les marques ou de nouveaux composant graphiques (video, images, animations)."
+        "description2": "J'ai commencé chez Criteo en tant que software engineer. J'ai participé à de multiples projets : atteindre de nouveaux inventaires (native ads, video ads), développer de nouveaux produits pour les marques ou de nouveaux composant graphiques (video, images, animations)."
       },
       "amadeus": {
         "title": "Software engineer à",
@@ -34,7 +34,7 @@
         "title": "Master Thesis à",
         "date": "2009",
         "description1": "Design et implémentation d'un système distribué d'exécution de tâches pour accélérer le processus de déploiement des produits e-commerce d'Amadeus.",
-        "description2": "Note finale: A. Finaliste du concours \"Amadeus Intern Contest\" (4ème place)."
+        "description2": "Note finale : A. Finaliste du concours \"Amadeus Intern Contest\" (4ème place)."
       },
       "sics": {
         "title": "Développeur au",
@@ -58,7 +58,7 @@
       }
     },
     "education": {
-      "title": "Education",
+      "title": "Formation",
       "kth": {
         "title": "Master of Science - ",
         "description": "Software engineering of distributed systems"
@@ -93,7 +93,7 @@
     "misc": {
       "title": "Autres intérêts",
       "part1": "Randonnées, natation, course à pied.",
-      "part2": "Histoire de l'art (ex-auditeur de l'\"Ecole du Louvre\").",
+      "part2": "Bandes dessinées, histoire de l'art (ex-auditeur de l'Ecole du Louvre).",
       "part3": "Joueur de flûte/piccolo."
     }
   }
