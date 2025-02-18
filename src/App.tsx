@@ -2,7 +2,7 @@ import "./App.css";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import {
   faGithub,
-  faTwitter,
+  faBluesky,
   faLinkedin,
 } from "@fortawesome/free-brands-svg-icons";
 import { BrowserRouter as Router, Switch, Route, Link } from "react-router-dom";
@@ -56,11 +56,11 @@ export default function App() {
               </a>
               <a
                 className="link"
-                href="https://twitter.com/clempinch"
+                href="https://bsky.app/profile/clempinch.bsky.social"
                 target="_blank"
                 rel="noopener noreferrer"
               >
-                <FontAwesomeIcon icon={faTwitter} className="prepend-icon" />{" "}
+                <FontAwesomeIcon icon={faBluesky} className="prepend-icon" />{" "}
                 Twitter
               </a>
               <a
