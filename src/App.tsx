@@ -4,6 +4,7 @@ import {
   faGithub,
   faBluesky,
   faLinkedin,
+  faMastodon,
 } from "@fortawesome/free-brands-svg-icons";
 import { BrowserRouter as Router, Switch, Route, Link } from "react-router-dom";
 import { Home } from "./pages/Home";
@@ -61,7 +62,16 @@ export default function App() {
                 rel="noopener noreferrer"
               >
                 <FontAwesomeIcon icon={faBluesky} className="prepend-icon" />{" "}
-                Twitter
+                Bluesky
+              </a>
+              <a
+                className="link"
+                href="https://piaille.fr/@clempinch"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                <FontAwesomeIcon icon={faMastodon} className="prepend-icon" />{" "}
+                Mastodon
               </a>
               <a
                 className="link"
